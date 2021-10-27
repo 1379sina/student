@@ -1,0 +1,16 @@
+C:\Users\SINA\Desktop\sample.studemt\bin\Debug\net5.0\sample.studemt.exe
+C:\Users\SINA\Desktop\sample.studemt\bin\Debug\net5.0\sample.studemt.deps.json
+C:\Users\SINA\Desktop\sample.studemt\bin\Debug\net5.0\sample.studemt.runtimeconfig.json
+C:\Users\SINA\Desktop\sample.studemt\bin\Debug\net5.0\sample.studemt.runtimeconfig.dev.json
+C:\Users\SINA\Desktop\sample.studemt\bin\Debug\net5.0\sample.studemt.dll
+C:\Users\SINA\Desktop\sample.studemt\bin\Debug\net5.0\ref\sample.studemt.dll
+C:\Users\SINA\Desktop\sample.studemt\bin\Debug\net5.0\sample.studemt.pdb
+C:\Users\SINA\Desktop\sample.studemt\obj\Debug\net5.0\sample.studemt.csproj.AssemblyReference.cache
+C:\Users\SINA\Desktop\sample.studemt\obj\Debug\net5.0\sample.studemt.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\SINA\Desktop\sample.studemt\obj\Debug\net5.0\sample.studemt.AssemblyInfoInputs.cache
+C:\Users\SINA\Desktop\sample.studemt\obj\Debug\net5.0\sample.studemt.AssemblyInfo.cs
+C:\Users\SINA\Desktop\sample.studemt\obj\Debug\net5.0\sample.studemt.csproj.CoreCompileInputs.cache
+C:\Users\SINA\Desktop\sample.studemt\obj\Debug\net5.0\sample.studemt.dll
+C:\Users\SINA\Desktop\sample.studemt\obj\Debug\net5.0\ref\sample.studemt.dll
+C:\Users\SINA\Desktop\sample.studemt\obj\Debug\net5.0\sample.studemt.pdb
+C:\Users\SINA\Desktop\sample.studemt\obj\Debug\net5.0\sample.studemt.genruntimeconfig.cache
